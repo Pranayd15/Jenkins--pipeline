@@ -17,7 +17,7 @@ pipeline {
             steps {
                 git branch: 'main',
                     credentialsId: 'github',
-                    url: 'https://github.com/Pranayd15/Jenkins-pipeline'
+                    url: 'https://github.com/Pranayd15/Jenkins--pipeline'
             }
         }
 
